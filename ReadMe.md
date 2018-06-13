@@ -5,7 +5,7 @@ To demonstrate my revisions, I copied the source code from the three yapi help p
 
 ## First Article
 
-* The original article can be found [here](https://help.yapicentral.com/hc/en-us/articles/360000115407-Displaying-Images-in-GMail) - Displaying Images in Gmail 
+* The original article can be found [here](https://help.yapicentral.com/hc/en-us/articles/360000115407-Displaying-Images-in-GMail){:target="_blank"} - Displaying Images in Gmail 
 
 * Deployed revision is [here](https://crowned1.github.io/gmailArticle/)
 
